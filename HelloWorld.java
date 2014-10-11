@@ -15,7 +15,7 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] cats) {
-        System.out.print("Hello World!!! \n");
+        System.out.print("Hello GitHub World!!! \n");
     }
     
 }
